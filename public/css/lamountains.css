@@ -1,3 +1,20 @@
+body {
+    background-color: #61759e;
+}
+
+nav {
+    margin-bottom: -3px;
+}
+
+nav .nav-tabs, nav > *, nav .nav-tabs .nav-link.active, nav .nav-tabs .nav-item.show .nav-link {
+    border: 0;
+    background-color: transparent;
+}
+
+nav a {
+    color: white;
+}
+
 .bg {
     background-position: center;
     background-repeat: no-repeat;
@@ -47,4 +64,27 @@
         display: block !important;
         opacity: 1;
     }
+}
+
+div.step {
+    margin-top: 2em;
+    margin-right: 6em;
+}
+
+h1 {
+    color: #698397;
+}
+
+h1.step {
+    line-height: .8;
+}
+
+h2 {
+    color: #404f6c;
+}
+
+h2.step {
+    position: absolute;
+    top: 1em;
+    left: 4em;
 }

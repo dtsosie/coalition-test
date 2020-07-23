@@ -50,9 +50,11 @@
                 </div>
                 <div id="collapse-one" class="collapse show" data-parent="#nav-tab-content" role="tabpanel" aria-labelledby="heading-one">
                     <div class="card-body">
-                        <h1>01.</h1>
-                        <h2>HISTORY</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in ante viverra, rutrum erat rutrum, consectetur mi. Prion at maximus est. Nullam purus ex, iaculis sed erat sed, blandit tincidunt quam. Cras scelerisque id quam sed digissim Pellentesqu urna nunc, gravida quis henderit ac, tristique ut quam. Vivamus suscipit dignissim tortor nec congue.</p>
+                        <div class="step position-relative">
+                            <h1 class="step display-1">01.</h1>
+                            <h2 class="step position-absolute">HISTORY</h2>
+                        </div>
+                        <p class="ml-5" style="margin-top: -1em">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in ante viverra, rutrum erat rutrum, consectetur mi. Prion at maximus est. Nullam purus ex, iaculis sed erat sed, blandit tincidunt quam. Cras scelerisque id quam sed digissim Pellentesqu urna nunc, gravida quis henderit ac, tristique ut quam. Vivamus suscipit dignissim tortor nec congue.</p>
                     </div>
                 </div>
             </div>
@@ -65,9 +67,11 @@
                 </div>
                 <div id="collapse-two" class="collapse show" data-parent="#nav-tab-content" role="tabpanel" aria-labelledby="heading-two">
                     <div class="card-body">
-                        <h1>02.</h1>
-                        <h2>CLIMB</h2>
-                        <p>Cras scelerisque id quam sed dignissim Pellentesque urna nunc, gravida quis hendrerit ac, tristique ut quam. Vivamus suscipit dignissim tortor nec congue.</p>
+                        <div class="step position-relative float-left">
+                            <h1 class="step display-1">02.</h1>
+                            <h2 class="step position-absolute">CLIMB</h2>
+                        </div>
+                        <p class="ml-1" style="margin-top: 2.5rem">Cras scelerisque id quam sed dignissim Pellentesque urna nunc, gravida quis hendrerit ac, tristique ut quam. Vivamus suscipit dignissim tortor nec congue.</p>
                     </div>
                 </div>
             </div>
