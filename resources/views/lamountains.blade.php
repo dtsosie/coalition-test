@@ -29,7 +29,7 @@
 
         <div id="nav-tab-content" class="tab-content" role="tablist">
 
-            <div id="nav-main" class="card tab-pane fade show active" role="tabpanel" aria-labelledby="nav-one-main">
+            <div id="nav-main" class="card tab-pane fade show active bg bg-main" role="tabpanel" aria-labelledby="nav-one-main">
                 <div id="heading-one" class="card-header" role="tab">
                     <h5 class="mb-0">
                         <a data-toggle="collapse" href="#collapse-main" aria-expanded="true" aria-controls="collapse-main">
@@ -38,13 +38,11 @@
                     </h5>
                 </div>
                 <div id="collapse-main" class="collapse show" data-parent="#nav-tab-content" role="tabpanel" aria-labelledby="heading-main">
-                    <div class="card-body">
-                        <h1>LOS ANGELES<br />MOUNTAINS</h1>
-                    </div>
+                    <div class="card-body"></div>
                 </div>
             </div>
 
-            <div id="nav-one" class="card tab-pane fade show" role="tabpanel" aria-labelledby="nav-one-tab">
+            <div id="nav-one" class="card tab-pane fade bg bg-one" role="tabpanel" aria-labelledby="nav-one-tab">
                 <div id="heading-one" class="card-header" role="tab">
                     <h5 class="mb-0">
                         <a data-toggle="collapse" href="#collapse-one" aria-expanded="true" aria-controls="collapse-one">01. HISTORY</a>
@@ -59,7 +57,7 @@
                 </div>
             </div>
 
-            <div id="nav-two" class="card tab-pane fade" role="tabpanel" aria-labelledby="nav-two-tab">
+            <div id="nav-two" class="card tab-pane fade bg bg-two" role="tabpanel" aria-labelledby="nav-two-tab">
                 <div id="heading-two" class="card-header" role="tab">
                     <h5 class="mb-0">
                         <a data-toggle="collapse" href="#collapse-two" aria-expanded="true" aria-controls="collapse-two">02. TEAM</a>

@@ -1,5 +1,27 @@
+.bg {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-main {
+    background-image: url("/images/lamountains-bg-main.png");
+}
+
+.bg-one {
+    background-image: url("/images/lamountains-bg-one.png");
+}
+
+.bg-two {
+    background-image: url("/images/lamountains-bg-two.png");
+}
+
 .nav-tabs {
     display:none;
+}
+
+.card {
+    height: 710px;
 }
 
 @media(min-width:768px) {
