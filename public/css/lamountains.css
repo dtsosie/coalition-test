@@ -37,10 +37,6 @@ nav a {
     display:none;
 }
 
-.card {
-    height: 710px;
-}
-
 @media(min-width:768px) {
     .nav-tabs {
         display: flex;
@@ -48,6 +44,7 @@ nav a {
     
     .card {
         border: none;
+        height: 710px;
     }
 
     .card .card-header {
