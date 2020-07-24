@@ -87,7 +87,7 @@
                         </div>
                         <p class="ml-1" style="margin-top: 2.5rem">Cras scelerisque id quam sed dignissim Pellentesque urna nunc, gravida quis hendrerit ac, tristique ut quam. Vivamus suscipit dignissim tortor nec congue.</p>
                         <!--Navbar-->
-                        <nav class="navbar navbar-dark bg-whitesmoke flex-row primary-color">
+                        <nav class="navbar navbar-dark bg-whitesmoke primary-color">
                             <!-- Links -->
                             <ul class="navbar-nav flex-row mr-auto">
                                 <li class="nav-item mr-2 active">
@@ -99,18 +99,39 @@
                             </ul>
                             <!-- Links -->
                             <!-- Collapsible content -->
-                            <div class="card-body container">
+                            <div class="card-body container d-inline">
+                                <h2 class="display-5">SCHEDULE</h2>
                                 <div class="row">
-                                    <div class="md-col">
-                                        <h2>SCHEDULE</h2>
-                                    </div>
-                                    <div class="md-col"></div>
-                                </div>
-                                <div class="row">
-                                    <div class="md-col">
+                                    <div class="md-col ml-3 mr-5">
                                         25 Nov 2016
                                     </div>
-                                    <div class="md-col">
+                                    <div class="md-col ml-5">
+                                        Vestibulum viverra
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="md-col ml-3 mr-5">
+                                        28 Nov 2016
+                                    </div>
+                                    <div class="md-col ml-5">
+                                        Vestibulum viverra
+                                    </div>
+                                </div>
+                                <div class="row"></div>
+                                <div class="row">
+                                    <div class="md-col ml-3 mr-5">
+                                        18 Dec 2016
+                                    </div>
+                                    <div class="md-col ml-5">
+                                        Vestibulum viverra
+                                    </div>
+                                </div>
+                                <div class="row"></div>
+                                <div class="row">
+                                    <div class="md-col ml-3 mr-5">
+                                        7&nbsp;&nbsp;&nbsp; Jan 2017
+                                    </div>
+                                    <div class="md-col ml-5">
                                         Vestibulum viverra
                                     </div>
                                 </div>
