@@ -76,7 +76,7 @@ h1.step {
     line-height: .8;
 }
 
-h2 {
+h2, nav.navbar > ul.navbar-nav > li.nav-item > a.nav-link {
     color: #404f6c;
 }
 
@@ -85,3 +85,8 @@ h2.step {
     top: 1em;
     left: 4em;
 }
+
+nav.bg-whitesmoke {
+    background-color: whitesmoke;
+}
+

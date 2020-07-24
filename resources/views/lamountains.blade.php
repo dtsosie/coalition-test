@@ -86,6 +86,38 @@
                             <h2 class="step position-absolute">CLIMB</h2>
                         </div>
                         <p class="ml-1" style="margin-top: 2.5rem">Cras scelerisque id quam sed dignissim Pellentesque urna nunc, gravida quis hendrerit ac, tristique ut quam. Vivamus suscipit dignissim tortor nec congue.</p>
+                        <!--Navbar-->
+                        <nav class="navbar navbar-dark bg-whitesmoke flex-row primary-color">
+                            <!-- Links -->
+                            <ul class="navbar-nav flex-row mr-auto">
+                                <li class="nav-item mr-2 active">
+                                    <a class="nav-link" href="#">Mountain 1</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">Mountain 2</a>
+                                </li>
+                            </ul>
+                            <!-- Links -->
+                            <!-- Collapsible content -->
+                            <div class="card-body container">
+                                <div class="row">
+                                    <div class="md-col">
+                                        <h2>SCHEDULE</h2>
+                                    </div>
+                                    <div class="md-col"></div>
+                                </div>
+                                <div class="row">
+                                    <div class="md-col">
+                                        25 Nov 2016
+                                    </div>
+                                    <div class="md-col">
+                                        Vestibulum viverra
+                                    </div>
+                                </div>
+                            </div>
+
+                        </nav>
+                        <!--/.Navbar-->
                     </div>
                 </div>
             </div>
